@@ -1,1 +1,1 @@
-This is a sample code file. edited code for GitHub
+This is a sample code file. edited code for GitHub. local conflict.
